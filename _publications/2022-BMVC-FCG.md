@@ -13,7 +13,7 @@ Current approaches in Multiple Object Tracking (MOT) rely on the spatio-temporal
 [Download paper here](https://bmvc2022.mpi-inf.mpg.de/0362.pdf)
 
 Citation:
-```
+```bibtex
 @inproceedings{Girbau_2022_BMVC,
 author    = {Andreu Girbau and Ferran Marques and Shin'ichi Satoh},
 title     = {Multiple Object Tracking from appearance by hierarchically clustering tracklets},
