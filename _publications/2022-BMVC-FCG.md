@@ -18,7 +18,7 @@ Citation:
 author    = {Andreu Girbau and Ferran Marques and Shin'ichi Satoh},
 title     = {Multiple Object Tracking from appearance by hierarchically clustering tracklets},
 booktitle = {33rd British Machine Vision Conference 2022, {BMVC} 2022, London, UK, November 21-24, 2022},
-publisher = {{BMVA} Press},
+publisher = {BMVA Press},
 year      = {2022},
 url       = {https://bmvc2022.mpi-inf.mpg.de/0362.pdf}
 }
