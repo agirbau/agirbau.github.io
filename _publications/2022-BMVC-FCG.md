@@ -9,5 +9,5 @@ venue: 'British Machine Vision Conference (BMVC)'
 paperurl: 'https://bmvc2022.mpi-inf.mpg.de/362'
 bibtex: files/2022-BMVC-FCG_bib.txt
 pdf: https://bmvc2022.mpi-inf.mpg.de/0362.pdf
-teaser:
+teaser: images/bmvc_dist_center.jpg
 ---
