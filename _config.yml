@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Agirbau"
+title                    : "Andreu Girbau Xalabarder"
 title_separator          : "-"
-name                     : &name "Andreu Girbau-Xalabarder"
+name                     : &name "Andreu Girbau Xalabarder"
 description              : &description "Research scientist at National Institute of Informatics"
 url                      : https://agirbau.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Andreu Girbau-Xalabarder"
   avatar           : "andreu_face.jpg"
-  bio              : #"Your biography for the left-hand sidebar"
+  bio              : "Postdoctoral Research scientist"
   location         : "Tokyo, Japan"
-  employer         :
+  employer         : "National Institute of Informatics, Tokyo"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=vMmhE-sAAAAJ&hl=en"
-  email            :
+  email            : "agirbau @ nii.ac.jp"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/andreu-girbau-xalabarder"
   orcid            :
   pinterest        :
   soundcloud       :
