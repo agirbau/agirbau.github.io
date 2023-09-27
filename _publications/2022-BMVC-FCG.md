@@ -7,7 +7,7 @@ date: 2022-11-21
 authors: "G. Andreu, M. Ferran, S. Satoh"
 venue: 'British Machine Vision Conference (BMVC)'
 uri: 'https://bmvc2022.mpi-inf.mpg.de/362'
-bibtex: files/2022-BMVC-FCG_bib.txt
+bibtex: /files/2022-BMVC-FCG_bib.txt
 pdf: https://bmvc2022.mpi-inf.mpg.de/0362.pdf
-teaser: images/bmvc_dist_center.jpg
+teaser: /images/bmvc_dist_center.jpg
 ---
