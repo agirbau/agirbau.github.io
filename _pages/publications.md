@@ -27,6 +27,7 @@ author_profile: true
 <table class="hoverTable">
   <col style="width:75%">
   <col style="width:25%">
+  {% include base_path %}
   {% for post in site.publications reversed %}
     {% include archive-single-pub.html %}
   {% endfor %}
