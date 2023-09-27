@@ -12,7 +12,9 @@ author_profile: true
 		border: 0px;
 	}
 	.hoverTable td{ 
-		padding:7px; border:#4e95f4 0px solid;
+		padding:7px; 
+        border:#4e95f4 0px solid;
+        transition: all 0.3s; /* Add a transition for smooth animation */
 	}
 	/* Define the default color for all the table rows */
 	.hoverTable tr{
@@ -21,6 +23,11 @@ author_profile: true
 	/* Define the hover highlight color for the table row */
     .hoverTable tr:hover {
           background-color: #f7f7f7;
+    }
+    /* Increase the size of everything in the row on hover */
+    .hoverTable tr:hover td {
+        padding: 14px; /* Increase padding */
+        font-size: 16px; /* Increase font size */
     }
 </style>
 
