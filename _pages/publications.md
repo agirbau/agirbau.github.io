@@ -5,6 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
+{% include base_path %}
+
+[//]: # ({% for post in site.publications reversed %})
+
+[//]: # (  {% include archive-single.html %})
+
+[//]: # ({% endfor %})
+
 <style style="text/css">
   	.hoverTable{
 		width:85%; 
@@ -27,7 +35,6 @@ author_profile: true
 <table class="hoverTable">
   <col style="width:75%">
   <col style="width:25%">
-  {% include base_path %}
   {% for post in site.publications reversed %}
     {% include archive-single-pub.html %}
   {% endfor %}
