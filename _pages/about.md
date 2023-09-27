@@ -18,6 +18,17 @@ Feel free to contact me for collaboration!
 Research interests
 ------
 
+Multiple Object Tracking
+------
+I have been working on Multiple Object Tracking for different projects.
+
+TV Analysis of Political figures
+------
+I had the opportunity to work on this project analyzing the Japanese TV news.  
+
+Event Cameras
+-----
+Event cameras are a different type of camera.
 
 [//]: # (Education)
 
