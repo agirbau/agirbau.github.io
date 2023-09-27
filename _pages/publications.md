@@ -24,10 +24,9 @@ author_profile: true
     .hoverTable tr:hover {
           background-color: #f7f7f7;
     }
-    /* Increase the size of everything in the row on hover */
+    /* Increase the size of everything in the row on hover using zoom */
     .hoverTable tr:hover td {
-        padding: 14px; /* Increase padding */
-        font-size: 16px; /* Increase font size */
+        transform: scale(1.2); /* Increase the size by 20% */
     }
 </style>
 
