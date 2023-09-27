@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% include base_path %}
-
 <style style="text/css">
   	.hoverTable{
 		width:85%; 
