@@ -32,7 +32,7 @@ author_profile: true
 
     /* Increase the size of everything on the right side of the row on hover using zoom */
     .hoverTable tr:hover td {
-        transform-origin: right center;
+        transform-origin: left center;
         transform: scale(1.2); /* Increase the size by 20% (adjust as needed) */
     }
 </style>
