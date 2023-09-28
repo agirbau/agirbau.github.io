@@ -16,19 +16,33 @@ Feel free to contact me for collaboration!
 
 
 Research interests
-------
-
-Multiple Object Tracking
-------
-I have been working on Multiple Object Tracking for different projects.
-
-TV Analysis of Political figures
-------
-I had the opportunity to work on this project analyzing the Japanese TV news.  
+=====
 
 Event Cameras
 -----
-Event cameras are a different type of camera.
+My current research focuses on Event Cameras and their applications in computer vision.
+Traditional cameras capture images at a fixed frame rate while event cameras only capture changes in the scene (aka. events) per pixel as they happen.
+This changes the paradigm of computer vision from discrete to (almost) continuous information, opening the possibility to 
+many different applications, such as collision avoidance in fast-paced dynamic environments.
+
+
+Multiple Object Tracking
+------
+During my Ph.D., I had the privilege of working at AutomaticTV, a company dedicated to generating sports productions using computer vision techniques. 
+Among various challenges, a significant part of my research focused on Multiple Object Tracking (MOT) and its practical applications in real-world scenarios.
+What made this experience really interesting was how I got to see the different ways industry and academia do things,
+having to tackle the MOT challenge from different angles, understanding the needs of both worlds.
+
+
+TV Analysis of Political figures
+------
+I had the great opportunity to work in a multi-disciplinary project on the intersection of political science and computer vision.
+The objective of this project was to analyze Japanese television, with a particular focus on political trends over the 
+last 20 years.
+The project involved building datasets, working in face detection, tracking, and classification, building a system as 
+robust and flexible as possible, so we could use the system to be able to quickly analyze other political actors and other video frameworks.
+
+
 
 [//]: # (Education)
 
