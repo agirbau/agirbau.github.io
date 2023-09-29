@@ -1,5 +1,5 @@
 ---
-title: "Multiple Object Tracking with Mixture Density Networks for Trajectory Estimation  
+title: "Multiple Object Tracking with Mixture Density Networks for Trajectory Estimation\
 (Best runner up)"
 collection: publications
 permalink: /publication/2021-CVPRW-TRAJE
