@@ -1,0 +1,4 @@
+@inproceedings{guinaudeau2023textual,
+  title={Textual Analysis for Video Memorability Prediction},
+  author={Guinaudeau, Camille and Xalabarder, Andreu Girbau}
+}

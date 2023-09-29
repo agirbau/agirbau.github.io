@@ -1,8 +1,8 @@
-@InProceedings{Ventura_2019_CVPR,
-author = {Ventura, Carles and Bellver, Miriam and Girbau, Andreu and Salvador, Amaia
-          and Marques, Ferran and Giro-i-Nieto, Xavier},
-title = {RVOS: End-to-End Recurrent Network for Video Object Segmentation},
-booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
-month = {June},
-year = {2019}
+@inproceedings{girbau2018tracked,
+  title={Tracked Instance Search},
+  author={Girbau, Andreu and Hinami, Ryota and Satoh, Shin'Ichi},
+  booktitle={2018 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={1663--1667},
+  year={2018},
+  organization={IEEE}
 }
