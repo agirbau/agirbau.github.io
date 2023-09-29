@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2019-CVPR-RVOS
 excerpt: 
 date: 2019-06-19
-authors: "C. Ventura, M. Bellver, A. Girbau, A. Salvador, F. Marques, X. Giro-i-Nieto"
+authors: "C. Ventura, M. Bellver, <u>A. Girbau</u>, A. Salvador, F. Marques, X. Giro-i-Nieto"
 venue: 'Computer Vision and Pattern Recognition (CVPR)'
 uri: 'https://imatge-upc.github.io/rvos/'
 bibtex: /files/2019-CVPR-RVOS_bib.txt

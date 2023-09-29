@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2021-CVPRW-TRAJE
 excerpt: 
 date: 2021-06-19
-authors: "A. Girbau, X. Giro-i-Nieto, I. Rius, F. Marques"
+authors: "<u>A. Girbau</u>, X. Giro-i-Nieto, I. Rius, F. Marques"
 venue: 'Computer Vision and Pattern Recognition Workshop (CVPRW RSVU)'
 uri:
 bibtex: /files/2021-CVPRW-TRAJE_bib.txt
