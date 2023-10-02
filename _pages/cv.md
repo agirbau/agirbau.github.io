@@ -68,6 +68,8 @@ Service and leadership
 ======
 <b>Conference reviewer or PC member</b>: CVPR, ICCV, ECCV, ACCV, WACV, ACMMM, ICPR
 
+<b>Actively contributing to</b>: [Event-Vision](https://github.com/shiba24/event-vision-library)
+
 Served as course delegate during University
 
 Member of ICT Grade Revision and Reorganisation commission, adapting the university curricula to a new plan
