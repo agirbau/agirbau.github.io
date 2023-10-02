@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="/files/Andreu_Girbau_CV.pdf">Download CV</a>
+<a href="/files/Andreu_Girbau_CV.pdf">Download resume</a>
 
 Education
 ======
