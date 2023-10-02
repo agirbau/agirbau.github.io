@@ -10,4 +10,5 @@ uri: 'https://imatge-upc.github.io/rvos/'
 bibtex: /files/2019-CVPR-RVOS_bib.txt
 pdf: https://openaccess.thecvf.com/content_CVPR_2019/papers/Ventura_RVOS_End-To-End_Recurrent_Network_for_Video_Object_Segmentation_CVPR_2019_paper.pdf
 teaser: /images/teaser_rvos.jpg
+project: "https://imatge-upc.github.io/rvos/"
 ---

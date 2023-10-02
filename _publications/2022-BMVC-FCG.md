@@ -10,4 +10,5 @@ uri: 'https://bmvc2022.mpi-inf.mpg.de/362'
 bibtex: /files/2022-BMVC-FCG_bib.txt
 pdf: https://bmvc2022.mpi-inf.mpg.de/0362.pdf
 teaser: /images/bmvc_dist_center.jpg
+project: "https://github.com/NII-Satoh-Lab/MOT_FCG"
 ---
