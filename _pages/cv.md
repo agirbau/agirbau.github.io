@@ -19,9 +19,11 @@ redirect_from:
 
 Education
 ======
-* Ph. D in Computer Vision by the Polytechnical University of Catalonia (UPC) (2021)
-* Master in Electrical Engineering, Multimedia specialisation at UPC (2017)
-* Electrical Engineering, Multimedia specialisation at UPC (2015)
+Ph. D in Computer Vision by the Polytechnical University of Catalonia (UPC) (2021)
+
+Master in Electrical Engineering, Multimedia specialisation at UPC (2017)
+
+Electrical Engineering, Multimedia specialisation at UPC (2015)
 
 <h1>Work experience</h1>
 <h2> April 2023 - Current </h2>

@@ -8,6 +8,12 @@ redirect_from:
   - /about.html
 ---
 
+<style style="text/css">
+  body{
+    text-align: justify;
+  }
+</style>
+
 Hello! I'm Andreu Girbau Xalabarder, a Post-Doctoral research fellow at [Satoh-lab](http://www.satoh-lab.nii.ac.jp/) at the National Institute of Informatics in Tokyo, 
 and my interests are in Event Cameras, Computer Vision and applied Machine Learning in general. 
 I did my PhD at [AutomaticTV\|Mediapro](https://www.automatic.tv) 
