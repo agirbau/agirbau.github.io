@@ -1,11 +1,5 @@
 {% include base_path %}
 
-<style>
-  body{
-    text-align: left;
-  }
-</style>
-
 {% if page.author_profile or layout.author_profile or page.sidebar %}
   <div class="sidebar sticky">
   {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
