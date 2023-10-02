@@ -9,5 +9,5 @@ venue: 'Political Analysis'
 uri: ''
 bibtex: 
 pdf: 
-teaser: 
+teaser: /images/JP_actors.jpg
 ---

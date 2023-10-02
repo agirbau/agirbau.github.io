@@ -9,5 +9,5 @@ venue: 'ACM Multimedia Workshop (ACM MM Sports)'
 uri: ''
 bibtex: 
 pdf: 
-teaser: 
+teaser: /images/EventBall_detections.jpg
 ---
