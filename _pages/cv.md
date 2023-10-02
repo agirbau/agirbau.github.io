@@ -9,11 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-body {
-    width:500px;
-    text-align: justify;
-}
-
 <a href="/files/Andreu_Girbau_CV.pdf">Download resume</a>
 
 Education
