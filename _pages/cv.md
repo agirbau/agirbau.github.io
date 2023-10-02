@@ -26,7 +26,7 @@ Electrical Engineering, Multimedia specialisation at UPC (2015)
 I'm currently conducting research on event cameras, focusing both in fundamental research and advanced algorithms.
 
 <h2> April 2021 - March 2023 </h2>
-<h3> Postdoctoral researcher @ NII - Satoh-lab - Satoh-lab </h3>
+<h3> Postdoctoral researcher @ NII - Satoh-lab </h3>
 
 I conducted research using computer vision techniques, mainly multiple object tracking, face detection, and classification 
 to analyze Japanese politicians' portrayal on public and private TV channels over the past 20 years in a multidisciplinary 
