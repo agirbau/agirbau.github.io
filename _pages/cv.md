@@ -68,7 +68,7 @@ Service and leadership
 ======
 <b>Conference reviewer or PC member</b>: CVPR, ICCV, ECCV, ACCV, WACV, ACMMM, ICPR
 
-<b>Actively contributing to</b>: [Event-Vision](https://github.com/shiba24/event-vision-library)
+<b>Actively contributing to</b>: [Event-Vision library](https://github.com/shiba24/event-vision-library)
 
 Served as course delegate during University
 
