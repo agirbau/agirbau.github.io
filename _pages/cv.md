@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+body {
+    width:500px;
+    text-align: justify;
+}
+
 <a href="/files/Andreu_Girbau_CV.pdf">Download resume</a>
 
 Education
@@ -17,19 +22,19 @@ Education
 * Master in Electrical Engineering, Multimedia specialisation at UPC (2017)
 * Electrical Engineering, Multimedia specialisation at UPC (2015)
 
-Work experience
-======
-* April 2023 - Current: Project researcher <br> @ NII - Satoh-lab
-  ------
-  I'm currently conducting research on event cameras, focusing both in fundamental research and advanced algorithms.
+<h1>Work experience</h1>
+<h2> April 2023 - Current </h2>
+<h3> Project researcher @ NII - Satoh-lab </h3>
 
-* April 2021 - March 2023: Postdoctoral researcher <br> @ NII - Satoh-lab
-  ------
-  I conducted research using computer vision techniques, mainly multiple object tracking, face detection, and classification 
-  to analyze Japanese politicians' portrayal on public and private TV channels over the past 20 years in a multidisciplinary 
-  team of political and computer scientists.
+I'm currently conducting research on event cameras, focusing both in fundamental research and advanced algorithms.
 
-* September 2017 - March 2021: PhD candidate | Deep Learning Engineer <br> @ UPC - Image Processing Group | AutomaticTV
+<h2> April 2021 - March 2023 </h2>
+<h3> Postdoctoral researcher @ NII - Satoh-lab - Satoh-lab </h3>
+I conducted research using computer vision techniques, mainly multiple object tracking, face detection, and classification 
+to analyze Japanese politicians' portrayal on public and private TV channels over the past 20 years in a multidisciplinary 
+team of political and computer scientists.
+
+September 2017 - March 2021 <br> PhD candidate | Deep Learning Engineer @ UPC - Image Processing Group | AutomaticTV
   ------
   I pursued my PhD in AutomaticTV, a company devoted to automatic productions of sports, and the Polytechnic
 University of Catalonia, under the supervision of Professors Ferran Marqués and Xavier Giró-i-Nieto, and Dr. Ignasi Rius.
@@ -37,11 +42,11 @@ I was in charge of transfer state-of-the-art knowledge, introducing Deep Learnin
 working on object detection, segmentation, and multiple object tracking, and was in charge of the Deep Learning pipeline, 
 from generating and maintaining the dataset to training and delivering the models to the production team.
 
-* March 2017 - August 2017: Research intern <br> @ NII - Satoh-lab
+March 2017 - August 2017 <br> Research intern @ NII - Satoh-lab
   ------
   I worked on a project using Multiple Object Tracking and Segmentation for query expansion for instance retrieval.
 
-* August 2014 - February 2017: Research assistant <br> @ UPC - Image Processing Group
+August 2014 - February 2017 <br> Research assistant @ UPC - Image Processing Group
   ------
   My work consisted on assisting PhD candidates by optimizing the coding of the algorithms (Matlab and C) and building visualization tools in Matlab 
   to provide insights on different aspects of their methods. During that time, I also worked on top of the research done
