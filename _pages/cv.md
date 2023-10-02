@@ -84,7 +84,7 @@ Publications
 
 Other
 ======
-I love sports and music. Hit me if you are around Tokyo for a match of Volleyball or Soccer, or a improv. session (I play guitar and sing occasionally).
+I love sports, music, and table games. Hit me if you are around Tokyo for a match of Volleyball or Soccer, or a improv. session (I play guitar and sing occasionally).
 
 Won a competition for amateur theater representing an adaptation of Ten little Indians by Agatha Christie.
 
