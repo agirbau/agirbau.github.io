@@ -52,22 +52,27 @@ I worked on a project using Multiple Object Tracking and Segmentation for query 
 My work consisted on assisting PhD candidates by optimizing the coding of the algorithms (Matlab and C) and building visualization tools in Matlab 
 to provide insights on different aspects of their methods. During that time, I also worked on top of the research done
 by Dr. David Varas, under the supervision of Professor Ferran Marqués, which resulted in both my Bachelor Thesis and Master Thesis.
-  
-  
+
   
 Skills
 ======
-* Most skilled in <b>Python</b>, but have developed projects in C, C++, Matlab, and Java.
-* Libraries I like: Pytorch, Tensorflow, Keras, Pandas, OpenCV, FiftyOne, Weights and Biases, Jupyter
-* Preferred OS: Linux
-* Soft: Leadership, Project management, Vector-processing graphics, Agile & Scrum
+Most skilled in <b>Python</b>, but have developed projects in C, C++, Matlab, and Java.
+
+Libraries I like: Pytorch, Tensorflow, Keras, Pandas, OpenCV, FiftyOne, Weights and Biases, Jupyter
+
+Preferred OS: Linux
+
+Soft: Leadership, Project management, Vector-processing graphics, Agile & Scrum
 
 Service and leadership
 ======
-* <b>Conference reviewer or PC member</b>: CVPR, ICCV, ECCV, ACCV, WACV, ACMMM, ICPR
-* Served as course delegate during University
-* Member of ICT Grade Revision and Reorganisation commission, adapting the university curricula to a new plan
-* Member of ETSETB school council
+<b>Conference reviewer or PC member</b>: CVPR, ICCV, ECCV, ACCV, WACV, ACMMM, ICPR
+
+Served as course delegate during University
+
+Member of ICT Grade Revision and Reorganisation commission, adapting the university curricula to a new plan
+
+Member of ETSETB school council
 
 Publications
 ======
@@ -77,6 +82,8 @@ Publications
 
 Other
 ======
-* I love sports and music. Hit me for a match of Volleyball or Soccer, or a improv. session (I play guitar and sing occasionally).
-* We won a competition for amateur theater representing an adaptation of Ten little Indians by Agatha Christie. 
-* I was an extra in Game of Thrones (Season 6). If you look closely you can see my face in a couple of frames (I was a Tyrell army soldier).
+I love sports and music. Hit me if you are around Tokyo for a match of Volleyball or Soccer, or a improv. session (I play guitar and sing occasionally).
+
+Won a competition for amateur theater representing an adaptation of Ten little Indians by Agatha Christie.
+
+I was an extra in Game of Thrones (Season 6). If you look closely you can see my face in a couple of frames (I was a Tyrell army soldier).
