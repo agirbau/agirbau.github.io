@@ -13,16 +13,17 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph. D in Computer Vision by the Polytechnical University of Catalonia (UPC) (2021)
+* Master in Electrical Engineering, Multimedia specialisation at UPC (2017)
+* Electrical Engineering, Multimedia specialisation at UPC (2015)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* April 2021 - April 2023: Postdoctoral researcher
+  ----
+  I conducted research using computer vision techniques, mainly multiple object tracking, face detection, and classification 
+  to analyze Japanese politicians' portrayal on public and private TV channels over the past 20 years in a multidisciplinary 
+  team of political and computer scientists.
 
 * Fall 2015: Research Assistant
   * Github University
