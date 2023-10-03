@@ -8,9 +8,9 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.2 (dc2aeda, 2022-05-15)"
-   sodipodi:docname="figures.svg"
+   sodipodi:docname="PM_times.svg"
    xml:space="preserve"
-   inkscape:export-filename="method.pdf"
+   inkscape:export-filename="PM_times_2.svg"
    inkscape:export-xdpi="250"
    inkscape:export-ydpi="250"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -27,13 +27,13 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.25177318"
-     inkscape:cx="1537.0978"
-     inkscape:cy="111.21121"
+     inkscape:zoom="0.76834384"
+     inkscape:cx="585.67529"
+     inkscape:cy="203.0341"
      inkscape:window-width="1440"
-     inkscape:window-height="900"
+     inkscape:window-height="762"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="530"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" /><defs
      id="defs2"><rect
@@ -291,9 +291,9 @@
        inkscape:export-ydpi="300"><tspan
          x="943.66992"
          y="-45.035899"
-         id="tspan10062"><tspan
+         id="tspan3634"><tspan
            style="font-weight:bold"
-           id="tspan10060">Analysis for Prime Minister screen time percentage</tspan></tspan></text><g
+           id="tspan3632">NHK - Analysis for Prime Minister screen time percentage</tspan></tspan></text><g
        id="g35395"
        transform="matrix(1.1945166,0,0,1.1893581,116.92897,-191.47249)"
        style="display:inline"><path
@@ -854,7 +854,7 @@
          style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect46040-83);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.88976;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><tspan
            x="1192.0566"
            y="962.69953"
-           id="tspan10064">Koizumi</tspan></text></g><rect
+           id="tspan3636">Koizumi</tspan></text></g><rect
        style="display:inline;opacity:0;fill:#ffffff;fill-opacity:1;stroke:#e90600;stroke-width:0.740695;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect7681-4-1"
        width="26.652668"
@@ -873,10 +873,10 @@
        inkscape:export-ydpi="250"><tspan
          x="1202.7891"
          y="855.03547"
-         id="tspan10066">New prime </tspan><tspan
+         id="tspan3638">New prime </tspan><tspan
          x="1202.7891"
          y="871.70209"
-         id="tspan10068">minister</tspan></text><text
+         id="tspan3640">minister</tspan></text><text
        xml:space="preserve"
        id="text48128-3-1"
        style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect48130-8-3);display:inline;fill:#000000;fill-opacity:1;stroke:none"
@@ -886,10 +886,10 @@
        inkscape:export-ydpi="250"><tspan
          x="1202.7891"
          y="855.03547"
-         id="tspan10070">General </tspan><tspan
+         id="tspan3642">General </tspan><tspan
          x="1202.7891"
          y="871.70209"
-         id="tspan10072">election</tspan></text><path
+         id="tspan3644">election</tspan></text><path
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.39195px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend-2)"
        d="m -233.34081,662.92659 -12.1947,6.92878"
        id="path54123-2"
@@ -1036,7 +1036,7 @@
          style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect46040-9-4-6-8);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00157;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><tspan
            x="1192.0566"
            y="962.69953"
-           id="tspan10074">Abe</tspan></text></g><g
+           id="tspan3646">Abe</tspan></text></g><g
        id="g20415-4"
        transform="matrix(1.4813896,0,0,1.4813896,-722.20243,230.6569)"
        inkscape:export-filename="/Users/andreu/Desktop/ICA21/figure_pm_month.png"
@@ -1055,7 +1055,7 @@
          style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect46040-3-8);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00157;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><tspan
            x="1192.0566"
            y="962.69953"
-           id="tspan10076">Fukuda</tspan></text></g><g
+           id="tspan3648">Fukuda</tspan></text></g><g
        id="g20383-9"
        transform="matrix(1.4813896,0,0,1.4813896,-713.09846,349.70082)"
        inkscape:export-filename="/Users/andreu/Desktop/ICA21/figure_pm_month.png"
@@ -1074,7 +1074,7 @@
          style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect46040-94-6);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00157;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><tspan
            x="1192.0566"
            y="962.69953"
-           id="tspan10078">Hatoyama</tspan></text></g><g
+           id="tspan3650">Hatoyama</tspan></text></g><g
        id="g20404-6"
        transform="matrix(1.4813896,0,0,1.4813896,-714.95427,281.82324)"
        inkscape:export-filename="/Users/andreu/Desktop/ICA21/figure_pm_month.png"
@@ -1093,7 +1093,7 @@
          style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect46040-8-1);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00157;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><tspan
            x="1192.0566"
            y="962.69953"
-           id="tspan10080">Kan</tspan></text></g><g
+           id="tspan3652">Kan</tspan></text></g><g
        id="g20399-9"
        transform="matrix(1.4813896,0,0,1.4813896,-708.84539,273.56501)"
        inkscape:export-filename="/Users/andreu/Desktop/ICA21/figure_pm_month.png"
@@ -1112,7 +1112,7 @@
          style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect46040-36-9);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00157;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><tspan
            x="1192.0566"
            y="962.69953"
-           id="tspan10082">Noda</tspan></text></g><g
+           id="tspan3654">Noda</tspan></text></g><g
        id="g20394-8"
        transform="matrix(1.4813896,0,0,1.4813896,-720.6602,349.70082)"
        inkscape:export-filename="/Users/andreu/Desktop/ICA21/figure_pm_month.png"
@@ -1137,7 +1137,7 @@
          style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect46040-7-6);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00157;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><tspan
            x="1192.0566"
            y="962.69953"
-           id="tspan10084">Suga</tspan></text></g><g
+           id="tspan3656">Suga</tspan></text></g><g
        id="g20388-3"
        transform="matrix(1.4813896,0,0,1.4813896,-804.26149,374.33403)"
        inkscape:export-filename="/Users/andreu/Desktop/ICA21/figure_pm_month.png"
@@ -1156,7 +1156,7 @@
          style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect46040-9-4-7);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00157;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><tspan
            x="1192.0566"
            y="962.69953"
-           id="tspan10086">Aso</tspan></text></g><g
+           id="tspan3658">Aso</tspan></text></g><g
        id="g20241-1-9"
        transform="matrix(1.4813896,0,0,1.4813896,-609.69757,349.70082)"
        inkscape:export-filename="/Users/andreu/Desktop/ICA21/figure_pm_month.png"
@@ -1175,7 +1175,7 @@
          style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect46040-9-4-6-8-0);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00157;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><tspan
            x="1192.0566"
            y="962.69953"
-           id="tspan10088">Abe</tspan></text></g><g
+           id="tspan3660">Abe</tspan></text></g><g
        id="g20399-4-5"
        transform="matrix(1.4813896,0,0,1.4813896,-597.70954,298.19825)"
        inkscape:export-filename="/Users/andreu/Desktop/ICA21/figure_pm_month.png"
@@ -1194,4 +1194,4 @@
          style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect46040-36-0-9);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00157;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><tspan
            x="1192.0566"
            y="962.69953"
-           id="tspan10090">Kishida</tspan></text></g></g></svg>
+           id="tspan3662">Kishida</tspan></text></g></g></svg>
