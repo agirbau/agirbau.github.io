@@ -39,7 +39,7 @@ Among various challenges, a significant part of my research focused on Multiple 
 What made this experience really interesting was how I got to see the different ways industry and academia do things,
 having to tackle the MOT challenge from different angles, understanding the needs of both worlds.
 
-<video autoplay loop muted playsinline>
+<video height="640" autoplay loop muted playsinline>
     <source src="/images/dancetrack58-trim.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
