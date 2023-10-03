@@ -39,6 +39,10 @@ Among various challenges, a significant part of my research focused on Multiple 
 What made this experience really interesting was how I got to see the different ways industry and academia do things,
 having to tackle the MOT challenge from different angles, understanding the needs of both worlds.
 
+<video autoplay loop muted playsinline>
+    <source src="/images/dancetrack58-trim.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
 
 TV Analysis of Political figures
 ------
@@ -47,11 +51,6 @@ The objective of this project was to analyze Japanese television, with a particu
 last 20 years.
 The project involved building datasets, working in face detection, tracking, and classification, building a system as 
 robust and flexible as possible, so we could use the system to be able to quickly analyze other political actors and other video frameworks.
-
-<video autoplay loop muted playsinline>
-    <source src="/images/dancetrack58-trim.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
 
 
 [//]: # (Education)
