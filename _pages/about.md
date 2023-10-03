@@ -28,7 +28,7 @@ This changes the paradigm of computer vision from discrete to (almost) continuou
 many different applications, such as collision avoidance in fast-paced dynamic environments.
 
 <div style="text-align:center;">
-    <img alt="BalloonPopping" src="/images/baloon_popping_lossy.gif"/>
+    <img alt="BalloonPopping" src="/images/baloon_popping_lossy.gif" width="640"/>
 </div>
 
 [//]: # (![WaterBomb]&#40;/images/water_bomb_floor_01_128colors_lossy.gif&#41;)
@@ -42,7 +42,7 @@ What made this experience really interesting was how I got to see the different 
 having to tackle the MOT challenge from different angles, understanding the needs of both worlds.
 
 <div style="text-align:center;">
-    <video height="320" autoplay loop muted playsinline>
+    <video width="640" autoplay loop muted playsinline>
         <source src="/images/dancetrack58-trim.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
@@ -57,7 +57,7 @@ The project involved building datasets, working in face detection, tracking, and
 robust and flexible as possible, so we could use the system to be able to quickly analyze other political actors and other video frameworks.
 
 <div style="text-align:center;">
-    <img alt="GovOppJP" src="/images/PM_times.svg"/>
+    <img alt="GovOppJP" src="/images/PM_times.svg" width="640"/>
 </div>
 
 [//]: # (Education)
