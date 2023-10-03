@@ -29,7 +29,7 @@ many different applications, such as collision avoidance in fast-paced dynamic e
 
 ![BalloonPopping](/images/baloon_popping_lossy.gif)
 
-![WaterBomb](/images/water_bomb_floor_01_128colors_lossy.gif)
+[//]: # (![WaterBomb]&#40;/images/water_bomb_floor_01_128colors_lossy.gif&#41;)
 
 
 Multiple Object Tracking
