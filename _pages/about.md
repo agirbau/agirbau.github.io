@@ -27,7 +27,9 @@ Traditional cameras capture images at a fixed frame rate while event cameras onl
 This changes the paradigm of computer vision from discrete to (almost) continuous information, opening the possibility to 
 many different applications, such as collision avoidance in fast-paced dynamic environments.
 
-<img alt="BalloonPopping" src="/images/baloon_popping_lossy.gif"/>
+<div style="text-align:center;">
+    <img alt="BalloonPopping" src="/images/baloon_popping_lossy.gif"/>
+</div>
 
 [//]: # (![WaterBomb]&#40;/images/water_bomb_floor_01_128colors_lossy.gif&#41;)
 
@@ -39,10 +41,12 @@ Among various challenges, a significant part of my research focused on Multiple 
 What made this experience really interesting was how I got to see the different ways industry and academia do things,
 having to tackle the MOT challenge from different angles, understanding the needs of both worlds.
 
-<video height="320" autoplay loop muted playsinline>
-    <source src="/images/dancetrack58-trim.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
+<div style="text-align:center;">
+    <video height="320" autoplay loop muted playsinline>
+        <source src="/images/dancetrack58-trim.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div>
 
 TV Analysis of Political figures
 ------
