@@ -25,6 +25,10 @@ Traditional cameras capture images at a fixed frame rate while event cameras onl
 This changes the paradigm of computer vision from discrete to (almost) continuous information, opening the possibility to 
 many different applications, such as collision avoidance in fast-paced dynamic environments.
 
+<img src="/images/baloon_popping_lossy.gif" alt="">
+
+<img src="/images/water_bomb_floor_01_128colors_lossy.gif" alt="">
+
 
 Multiple Object Tracking
 ------
