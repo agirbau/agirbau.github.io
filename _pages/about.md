@@ -48,6 +48,10 @@ last 20 years.
 The project involved building datasets, working in face detection, tracking, and classification, building a system as 
 robust and flexible as possible, so we could use the system to be able to quickly analyze other political actors and other video frameworks.
 
+<video autoplay loop muted playsinline>
+    <source src="/images/dancetrack58-trim.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
 
 
 [//]: # (Education)
