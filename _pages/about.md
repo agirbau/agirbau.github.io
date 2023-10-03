@@ -52,6 +52,7 @@ last 20 years.
 The project involved building datasets, working in face detection, tracking, and classification, building a system as 
 robust and flexible as possible, so we could use the system to be able to quickly analyze other political actors and other video frameworks.
 
+<img alt="GovOppJP" src="/images/gov_vs_opp_JP.png"/>
 
 [//]: # (Education)
 
