@@ -70,6 +70,8 @@ Service and leadership
 
 <b>Actively contributing to</b>: [Event-Vision library](https://github.com/shiba24/event-vision-library)
 
+Member of the Spanish Association of Researchers in Japan [ACE](https://en.acejapon.jp/)
+
 Lecturer at the [4th Summer school on Deep Learning for Vision, Barcelona](https://telecombcn-dl.github.io/2019-dlcv/) 
 
 Served as course delegate during University
