@@ -1,0 +1,8 @@
+@article{girbau2023face,
+  title={Face Detection, Tracking, and Classification from Large-Scale News Archives for Analysis of Key Political Figures},
+  author={Girbau, Andreu and Kobayashi, Tetsuro and Renoust, Benjamin and Matsui, Yusuke and Satoh, Shin’ichi},
+  journal={Political Analysis},
+  pages={1--19},
+  year={2023},
+  publisher={Cambridge University Press}
+}

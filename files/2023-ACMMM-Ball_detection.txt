@@ -1,0 +1,7 @@
+@inproceedings{nakabayashi2023event,
+  title={Event-based High-speed Ball Detection in Sports Video},
+  author={Nakabayashi, Takuya and Kondo, Akimasa and Higa, Kyota and Girbau, Andreu and Satoh, Shin'ichi and Saito, Hideo},
+  booktitle={Proceedings of the 6th International Workshop on Multimedia Content Analysis in Sports},
+  pages={55--62},
+  year={2023}
+}
