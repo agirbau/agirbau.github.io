@@ -46,12 +46,19 @@ from generating and maintaining the dataset to training and delivering the model
 
 <p class="text-justify">I worked on a project using Multiple Object Tracking and Segmentation for query expansion for instance retrieval.</p>
 
-<h2> August 2014 - February 2017 </h2>
+<h2> September 2014 - February 2017 </h2>
 <h3> Research assistant @ UPC - Image Processing Group </h3>
 
 <p class="text-justify">My work consisted on assisting PhD candidates by optimizing the coding of the algorithms (Matlab and C) and building visualization tools in Matlab 
 to provide insights on different aspects of their methods. During that time, I also worked on top of the research done
 by Dr. David Varas, under the supervision of Professor Ferran Marqués, which resulted in both my Bachelor Thesis and Master Thesis.</p>
+
+<h2> June 2014 - September 2014 </h2>
+<h3> Intern @ BCN VISION </h3>
+
+<p class="text-justify">My first job in the computer vision field! 
+BCN Vision is a company devoted to monitoring a production chain in order to detect defective pieces.
+I worked making viability studies on how we could detect defects on the manufactured pieces for both client and production team.</p>
 
   
 Skills
