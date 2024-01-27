@@ -18,7 +18,7 @@ Feel free to contact me for collaboration!
 
 <div class="scrollable" style="width: 100%; max-width: 600px; margin: 0 auto;">
     <b>Latest News</b>
-    <div class="scrollable-section" style="height: 300px; overflow-y: scroll; border: 1px solid #ccc; padding: 20px;">
+    <div class="scrollable-section" style="min-height: 50px; max-height: 300px; overflow-y: scroll; border: 1px solid #ccc; padding: 20px;">
         <!-- Your scrollable content goes here -->
         <p><b>Oct. 2023:</b> I will be serving as Area Chair for MMM2025 in Nara, Japan.</p>
         <!-- Add more content as needed -->
