@@ -16,6 +16,15 @@ I did my PhD at [AutomaticTV\|Mediapro](https://www.automatic.tv)
 in collaboration with the [Polytechnic University of Catalonia](https://telecos.upc.edu/en) in Barcelona with the [Image Processing Group](https://imatge.upc.edu/web/). 
 Feel free to contact me for collaboration!  
 
+<div class="scrollable" style="width: 100%; max-width: 600px; margin: 0 auto;">
+    <b>Latest News</b>
+    <div class="scrollable-section" style="height: 300px; overflow-y: scroll; border: 1px solid #ccc; padding: 20px;">
+        <!-- Your scrollable content goes here -->
+        <p><b>Oct. 2023:</b> I will be serving as Area Chair for MMM2025 in Nara, Japan.</p>
+        <!-- Add more content as needed -->
+    </div>
+</div>
+
 
 Research interests
 =====

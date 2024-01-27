@@ -73,7 +73,8 @@ Soft: Leadership, Project management, Vector-processing graphics, Agile & Scrum
 
 Service and leadership
 ======
-<b>Conference reviewer or PC member</b>: CVPR, ICCV, ECCV, ACCV, WACV, ACMMM, ICPR, ACM TIST
+<b>Conference reviewer or PC member</b>: CVPR, ICCV, ECCV, ACCV, WACV, ACMMM, ICPR, ACM TIST 
+Area Chair for MMM2025
 
 <b>Actively contributing to</b>: [Event-Vision library](https://github.com/shiba24/event-vision-library)
 
