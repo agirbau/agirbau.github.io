@@ -9,6 +9,6 @@ venue: 'CVPR'
 uri: ''
 bibtex: /files/2025-CVPR-POLED_bib.txt
 pdf: "https://openaccess.thecvf.com/content/CVPR2025W/EventVision/papers/Girbau-Xalabarder_Probabilistic_Online_Event_Downsampling_CVPRW_2025_paper.pdf"
-teaser: /images/teaser_POLED.pdf
+teaser: /images/teaser_POLED.jpg
 project: "https://github.com/DensoITLab/POLED"
 ---

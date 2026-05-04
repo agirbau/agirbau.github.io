@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="/files/Andreu_Girbau_CV.pdf">Download resume</a>
+<a href="/files/Andreu_Girbau_CV.pdf">Download resume (outdated)</a>
 
 Education
 ======
@@ -20,10 +20,16 @@ Education
 <p class="text-justify">Electrical Engineering, Multimedia specialisation at UPC (2015)</p>
 
 <h1>Work experience</h1>
-<h2> April 2023 - Current </h2>
+
+<h2> June 2024 - Now </h2>
+<h3> Associate researcher @ Denso IT Laboratory </h3>
+
+<p class="text-justify">I'm continuing doing research on event cameras, as well as other areas of computer vision, and robotics.</p>
+
+<h2> April 2023 - April 2024 </h2>
 <h3> Project researcher @ NII - Satoh-lab </h3>
 
-<p class="text-justify">I'm currently conducting research on event cameras, focusing both in fundamental research and advanced algorithms.</p>
+<p class="text-justify">I'm conducting research on event cameras, focusing both in fundamental research and advanced algorithms.</p>
 
 <h2> April 2021 - March 2023 </h2>
 <h3> Postdoctoral researcher @ NII - Satoh-lab </h3>
