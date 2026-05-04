@@ -22,6 +22,7 @@ Feel free to contact me for collaboration!
 
 <div class="scrollable" style="width: 100%; margin: 0 auto;">
     <b>Latest News</b>
+    <b></b>
     <div class="scrollable-section" style="min-height: 50px; max-height: 300px; overflow-y: scroll; border: 1px solid #ccc; padding: 20px;">
         <!-- Your scrollable content goes here -->
         <p><b>November 2026:</b> Our work CoLA: Convolution-free Local Linear Attention has been accepted to WACV2026.</p>
