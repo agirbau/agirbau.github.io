@@ -10,17 +10,27 @@ redirect_from:
 
 {% include base_path %}
 
-Hello! I'm Andreu Girbau Xalabarder, a Post-Doctoral research fellow at [Satoh-lab](http://www.satoh-lab.nii.ac.jp/) at the National Institute of Informatics in Tokyo, 
-and my interests are in Event Cameras, Computer Vision and applied Machine Learning in general. 
+Hello! I'm Andreu Girbau Xalabarder, an Associate Researcher at [Denso IT Laboratory](https://d-itlab.co.jp/),
+and my interests are in Event Cameras, Computer Vision and applied Machine Learning in general.
+
+Previously, I had the honor to work as a Post-Doctoral research fellow at [Satoh-lab](http://www.satoh-lab.nii.ac.jp/) at the National Institute of Informatics in Tokyo.
+
 I did my PhD at [AutomaticTV\|Mediapro](https://www.automatic.tv) 
 in collaboration with the [Polytechnic University of Catalonia](https://telecos.upc.edu/en) in Barcelona with the [Image Processing Group](https://imatge.upc.edu/web/). 
+
 Feel free to contact me for collaboration!  
 
 <div class="scrollable" style="width: 100%; margin: 0 auto;">
     <b>Latest News</b>
     <div class="scrollable-section" style="min-height: 50px; max-height: 300px; overflow-y: scroll; border: 1px solid #ccc; padding: 20px;">
         <!-- Your scrollable content goes here -->
-        <p><b>Oct. 2023:</b> I will be serving as Area Chair for MMM2025 in Nara, Japan.</p>
+        <p><b>November 2026:</b> Our work CoLA: Convolution-free Local Linear Attention has been accepted to WACV2026.</p>
+        <p><b>August 2025:</b> I will be serving as Area Chair for <a href="https://miru-committee.github.io/miru2026/">MIRU2026</a> in Nagasaki, Japan.</p>
+        <p><b>August 2025:</b> We were awarded the <a href="https://www.ipsj.or.jp/award/miru-award2.html">Nagao prize (長尾賞)</a> (Best paper) at MIRU 2025 for the work CoLA: Convolution-free Local Linear Attention.</p>
+        <p><b>June 2025:</b> We were awarded the best paper finalist for our work Probabilistic Event Downsampling at the <a href="https://tub-rip.github.io/eventvision2025/">Event-based vision workshop</a> at CVPR.</p>
+        <p><b>April 2025:</b> I was promoted to Associate Researcher at Denso IT Laboratory.</p>
+        <p><b>June 2024:</b> I started working at Denso IT Laboratory as full time Researcher.</p>
+        <p><b>October 2023:</b> I will be serving as Area Chair for <a href="https://mmm2025.net/">MMM2025</a> in Nara, Japan.</p>
         <!-- Add more content as needed -->
     </div>
 </div>

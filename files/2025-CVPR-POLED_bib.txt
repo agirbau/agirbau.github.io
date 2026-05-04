@@ -1,0 +1,8 @@
+@InProceedings{Girbau-Xalabarder_2025_CVPR,
+    author    = {Girbau-Xalabarder, Andreu and Nagata, Jun and Sumiyoshi, Shinichi},
+    title     = {Probabilistic Online Event Downsampling},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+    month     = {June},
+    year      = {2025},
+    pages     = {4896-4904}
+}
