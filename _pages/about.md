@@ -31,6 +31,8 @@ Feel free to contact me for collaboration!
         <p><b>April 2025:</b> I was promoted to Associate Researcher at Denso IT Laboratory.</p>
         <p><b>June 2024:</b> I started working at Denso IT Laboratory as full time Researcher.</p>
         <p><b>October 2023:</b> I will be serving as Area Chair for <a href="https://mmm2025.net/">MMM2025</a> in Nara, Japan.</p>
+        <p><b>March 2021:</b> Started a post-doctoral position at the NII (Tokyo) at Professor Shinichi Satoh's <a href="https://www.satoh-lab.nii.ac.jp/">lab</a>.</p>
+        <p><b>March 2021:</b> Defended my PhD titled Sports broadcasting and multiple object tracking with deep learning methods.</p>
         <!-- Add more content as needed -->
     </div>
 </div>
