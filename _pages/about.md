@@ -26,6 +26,7 @@ Feel free to contact me for collaboration!
     <div class="scrollable-section" style="min-height: 50px; max-height: 300px; overflow-y: scroll; border: 1px solid #ccc; padding: 20px;">
         <!-- Your scrollable content goes here -->
         <p><b>November 2026:</b> Our work CoLA: Convolution-free Local Linear Attention has been accepted to WACV2026.</p>
+        <p><b>October 2025:</b> Panelist at the Europe-Japan Research convention.</p>
         <p><b>August 2025:</b> I will be serving as Area Chair for <a href="https://miru-committee.github.io/miru2026/">MIRU2026</a> in Nagasaki, Japan.</p>
         <p><b>August 2025:</b> We were awarded the <a href="https://www.ipsj.or.jp/award/miru-award2.html">Nagao prize (長尾賞)</a> (Best paper) at MIRU 2025 for the work CoLA: Convolution-free Local Linear Attention.</p>
         <p><b>June 2025:</b> We were awarded the best paper finalist for our work Probabilistic Event Downsampling at the <a href="https://tub-rip.github.io/eventvision2025/">Event-based vision workshop</a> at CVPR.</p>
